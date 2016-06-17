@@ -12,6 +12,7 @@ public class GitStart {
 		gh.printBericht();
 		
 		//commentaar
+		System.out.println("zoWerktHet: Test2");
 		
 		
 	}
