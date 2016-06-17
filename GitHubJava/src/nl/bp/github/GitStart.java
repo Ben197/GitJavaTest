@@ -13,6 +13,7 @@ public class GitStart {
 		
 		//commentaar
 		System.out.println("zoWerktHet: Test2");
+		System.out.println("bericht in starttest2");
 		
 		
 	}

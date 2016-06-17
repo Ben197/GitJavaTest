@@ -6,6 +6,8 @@ public class GitHulp {
 	{
 		//commentaar
 		System.out.println("bericht in hulptest");
+		
+		System.out.println("bericht in hulptest2");
 	}
 
 }
