@@ -7,7 +7,6 @@ public class GitStart {
 		GitStart gt = new GitStart();
 		GitHulp gh = new GitHulp();
 		
-		
 		gt.printBericht2();
 		gh.printBericht();
 		
